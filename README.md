@@ -6,7 +6,7 @@ This is a simple Flutter application that displays a user profile with contact i
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1QsJdJOOOY9MsczvdZceRTputVWCXyJ77/view?usp=drive_link)
+![App Screenshot](https://github.com/rohankalva123/MyCard/blob/4651d29bcb59fb6f9edf658ecd3b901930621afa/mycard.png)
 
 
 ## Requirements
